@@ -2,7 +2,7 @@
 - 👀 I’m interested in all tech electronics, e-music and sports.
 - 🌱 I’m currently learning control version
 - 💞️ I’m looking to build my ideal project with my friends on IOS
-- 📫 How to reach me ...
+- 📫 How to reach me ... no don't reach me
 
 <!---
 UBRN/UBRN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
