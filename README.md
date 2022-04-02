@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UBRN
 - 👀 I’m interested in all technological developments, electronic music and sports.
 - 🌱 I’m currently learning control version
-- 💞️ I’m looking to build my ideal project with my friends on IOS
+- 💞️ I’m looking to build my ideal project with my friends on iOS
 - 📫 How to reach me ... no don't reach me
 
 <!---
