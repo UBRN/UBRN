@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Utku aka @UBRN
-- 👀 I’m interested in all technological developments, electronic music and sports.
-- 🌱 I’m currently learning control version
-- 💞️ I’m looking to build my ideal project on iOS
+- 👀 I’m interested in technological developments, electronic music and sports.
+
 
 <!---
 UBRN/UBRN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
